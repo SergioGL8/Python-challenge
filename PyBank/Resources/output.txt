@@ -1,0 +1,8 @@
+----------------------------------------------
+Financial Analysis
+----------------------------------------------
+The total number of months is: 86
+The net total amount is: 38382578
+The average of the changes is: -2315.1176470588234
+Greatest Increase in Profits: Feb-2012 : ($ 1926159)
+Greatest Decrease in Losses: Sep-2013 : ($ -2196167)

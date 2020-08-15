@@ -3,10 +3,11 @@ import os
 import csv
 
 # Set path for file
-csvpath = os.path.join("\\Users\\Propietario\\Desktop\\git\\tdm-mon-data-pt-07-2020-u-c\\Homework 3\\PyBank\\Resources\\budget_data.csv")
+#csvpath = os.path.join("\\Users\\Propietario\\Desktop\\git\\tdm-mon-data-pt-07-2020-u-c\\Homework 3\\PyBank\\Resources\\budget_data.csv")
+csvpath = os.path.join("..","Python-challenge","PyBank","Resources","budget_data.csv")
 #print (csvpath)
 #In addition, your final script should both print the analysis to the terminal and export a text file.
-output_txt = os.path.join("\\Users\\Propietario\\Desktop\\git\\tdm-mon-data-pt-07-2020-u-c\\Homework 3\\PyBank\\Resources\\output.txt")
+output_txt = os.path.join("..","Python-challenge","PyBank","Resources","output.txt")
 
 number_of_months = 0
 net_total = 0
