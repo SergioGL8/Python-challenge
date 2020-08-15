@@ -3,8 +3,9 @@ import csv
 
 election_data = os.path.join("..","Python-challenge","PyPoll","Resources","election_data.csv")
 #csvpath = os.path.join("\\Users\\Propietario\\Desktop\\TASKS_SGL\\Python\\Python-challenge\\PyPoll\\Resources\\election_data.csv")
+
 #In addition, your final script should both print the analysis to the terminal and export a text file.
-output_txt = os.path.join("..","Python-challenge","PyPoll","Resources","output.txt")
+output_txt = os.path.join("..","Python-challenge","PyPoll","output.txt")
 
 # Defining lists and initiate the counter of the total votes
 candidates = []
